@@ -1,0 +1,36 @@
+/* Write your CSS here */
+.app-container {
+  height: 100vh;
+  background-color: #93c5fd;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.card-container {
+  background-color: white;
+  border-radius: 15px;
+  width: 70vw;
+  max-height: 42vh;
+  padding: 80px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.input-container {
+  display: flex;
+  flex-direction: row;
+}
+.select {
+  width: 180px;
+  height: 30px;
+  align-self: center;
+  background-color: #f8fafc;
+  border-radius: 05px;
+  border: 1px solid #cbd2d9;
+  padding-left: 10px;
+  margin-right: 10px;
+  
+}
+.counrty-name{
+  color: #1e293b;
+}
